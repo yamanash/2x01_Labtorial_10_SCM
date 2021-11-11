@@ -3,4 +3,4 @@
 3. commit regularly
 4. when unit testing is done, commit/push final changes and initiate pull request to dev
 5. after reviewer approved, merge feature branch into dev 
-5. delete feature branch 
+6. delete feature branch 
