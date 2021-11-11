@@ -1,3 +1,5 @@
+<<<<<<< Updated upstream
+=======
 1. thou shall always commit to dev before the master
 2. do feature work only in ur own feature branch
 3. commit regularly
@@ -6,5 +8,10 @@
 6. delete feature branch 
 7. only do bugfixes & documentation in rel branches
 8. use tags to demarcate rel versions in master branch
+<<<<<<< HEAD
 10. other developers continue work off the dev branch
 
+=======
+>>>>>>> Stashed changes
+9. almost the same as a rel branch but works off prev release version 
+>>>>>>> b18097834bb1cb894b04d79e503d257fce47b58e
